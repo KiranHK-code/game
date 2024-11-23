@@ -23,3 +23,4 @@ const winner=()=>{
     for(let pattern of array)
         console.log(btn[pattern[0]].innerText,btn[pattern[1]].innerText,btn[pattern[2]].innerText)
 }
+
